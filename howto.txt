@@ -1,0 +1,7 @@
+# Deleting inaccessible VMs from the VirtualBox GUI via the command line
+
+VBoxManage list vms
+
+and
+
+VBoxManage unregistervm
